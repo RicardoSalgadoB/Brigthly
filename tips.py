@@ -39,11 +39,11 @@ def create_chain(vectorStore):
     """
     {student_name} is a university student feeling {emotions} with the contents of the topic {topic}. 
     The student is {lag} topics behind the rest of the class in this course.
-    Recommend a method (including meditation and mindfulness) in which he can become better academically and/or emotionally.
+    Recommend a method (including meditation and mindfulness) in which they can become better academically and/or emotionally.
     Use the academic contents of the topic included in {context}.
     
     Include only 3 recommendations.
-    Answer as if speaking directly with Diego in a paternalistic manner.
+    Answer as if speaking directly with {student_name} in a paternalistic manner.
     """
     )
     
