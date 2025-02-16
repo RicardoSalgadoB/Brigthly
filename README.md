@@ -1,3 +1,3 @@
-This was the code I did for hackathon, back in November. Since, I've delayade a bit in uploading it (we didn't won, so I didn't care much for the rest). Now it is finally here.
+This was the code I did for hackathon back in November. Since, I've delayaed a bit the uploading part of it, until now.
 
-The main contents are the *Python files* in which used *Langchain* to generate the given output. There is also the data I used for the project in a PDF (IB EE preparation) and 2 CSV files coming containing webscrapped data
+The project is intended to showcase my use of *Langchain* for support struggling high school/university students with their academic worflows or more generally for any other task that needs an LLM. Of course this the back end, if you are curious [here's the front end](https://github.com/alibabaintelligence/brightly_pretty) say "hi" to *alibabaintelligence* on my part. Ciao.
